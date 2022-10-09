@@ -1,0 +1,1 @@
+/Users/vrgsl/a_rust_projects/multipleSourceFiles/target/debug/multipleSourceFiles: /Users/vrgsl/a_rust_projects/multipleSourceFiles/src/example.rs /Users/vrgsl/a_rust_projects/multipleSourceFiles/src/main.rs
